@@ -1,0 +1,11 @@
+CODE INSPECTION ANSWERS:
+
+-- profile.html --
+    1. <style> background color set to #0f172a. 
+    2. under <style>, .title is set to #38bdf8 and uses the command "color" to change its text color. 
+    3. under .btn-connect:hover, the button changes color from #38bdf8 to #0284c7 when the mouse is hovered over it.
+
+-- event.html --
+    1. Inside the .event-card selector, the "border" property is used to create the pink border around the card. 
+    2. The margin property is used to control how big the heading text is. The value assigned is 10px.
+    3. border radius is used to round the edges of the event card box by 20px.
